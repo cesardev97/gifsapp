@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CustomHeader > should match snapshot 1`] = `
+<div>
+  <div
+    class="content-center"
+  >
+    <h1>
+      Buscar Gifs
+    </h1>
+  </div>
+</div>
+`;
